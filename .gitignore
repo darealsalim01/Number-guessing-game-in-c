@@ -1,0 +1,11 @@
+# Ignore the compiled executable (if you named it 'guess')
+guess
+a.out
+
+
+# Ignore all object files
+*.o
+
+# Ignore Neovim swap files (hidden files Neovim creates while editing)
+*.swp
+.netrwhist
